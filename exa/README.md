@@ -21,4 +21,4 @@ mi unica recomendacion es que nose por que no entendi muy bien como verlo en php
 ![alt text](<Captura de pantalla 2025-02-14 093801-1.png>)
 
 
-pero al final estuvo bien la documentacion dio todo bien sinb ningun error
+pero al final estuvo bien la documentacion dio todo bien, sin ningun error los codigos tutorial buenisimo 
